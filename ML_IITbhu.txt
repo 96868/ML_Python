@@ -84,3 +84,12 @@ class 4
 15. to display a sequence of numbers of a given list given the starting and the ending no
 16. string formatting  - using operator method - to insert 1 argument and many arguments within a string
 
+class 5
+
+1. to read the text written to a text file
+2. to write text into the text file
+3. to append text into the text file
+4. to check if a number is even or odd
+5. to check whether the student passed or failed (consider passing mark as 35)
+6. to check if a number is greater or lesser or equal to the other number
+
