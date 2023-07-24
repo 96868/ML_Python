@@ -1,0 +1,86 @@
+Python
+
+class 1
+
+1. python describe in 7 terms
+2. why python in 3 points
+3. comments 2 types 
+4. how to name a variable
+5. different types of variables
+6. to find the data type of the variable
+7. to concatenate 2 strings - 2ways
+8. to concatenate a string and an integer
+9. when u add an integer and a string the result is of what data type
+10.to print boolean value using a relational expression
+11.four different collection datatypes in python
+12.to concatenate two inputs given by the user
+13.to add two inputs given by the user
+
+class 2
+
+1. list explain in 2 terms
+2. indexing explain
+3. 2 types of indexing with an example each
+4. slicing explain
+5. 2 types of slicing with an example each
+6. to reverse the order of the elements in the list
+7. to print elements in the list alternatively
+8. what is the start stop and step index in the previous problem
+9. to update a list
+10. to add an element to the end of the list
+11. to insert an element at a particular index in the list
+12. to remove an element in the list using the value of the element
+13. to remove an element in the list using the index value of the element
+14. to find the number of elements in the list
+15. to find the datatype of variable list2
+16. to add a sequence element to the end of the list
+17. does append command take only 1 argument
+18. to insert a sequence of elements at a particular index of the list
+19. to remove a sequence of elements in the list using the value of the elements
+20. does remove command take only 1 argument
+21. to remove a sequence of elements in the list using the index no of the elements
+
+class 3
+
+1. to add an element to the end of the tuple
+2. to insert an element at a particular index in the tuple
+3. to remove an element in the tuple using the value of the element
+4. to remove an element in the tuple using the index value of the element
+5. to remove the entire tuple
+6. so from this is tuple mutable or immutable
+7. is list mutable or immutable
+8. to update the value of a key in the dictionary
+9. to add a key-value pair in the dictionary
+10. to update a key in the dictionary (assuming the same value before and after replacement of the key)
+11. to print one element from a set
+12. is indexing possible in a set
+13. to add an element to the set
+14. to add 2 sets 2 ways
+15. to display the common elements of both the sets 2 ways
+16. to remove an element in the set
+17. to remove all the elements in the set and make the set empty
+18. to delete the set itself 
+19. is set mutable or immutable
+20. create a function to add two mumbers.
+21. in the previous problem which is the parameter and the argument
+22. create a function to concatenate two names and print the result
+
+class 4
+
+1. without using input method create a function to subtract two numbers
+2. using input method create a function to subtract two numbers
+3. using input method create a function to concatenate two names and print the result
+4. using iter and next method print each and every element of the list one by one
+5. using  iterator print each and every element of the list one by one
+6. using iterator print sum after every iteration
+7. using another iterator method which takes number as an argument print 1st 10 natural numbers
+8. using iterator to print the subtracion of all the numbers and multiplication of all the numbers in the list
+9. using iterator print multiplication after every iteration
+10. to check whether an element is present in the list
+11. to check whether an element is not present in the list
+12. to display the element in the list with the maximum and minimum value
+13. to display the index number of a given character in the string
+14. to display the index number of a given character in the string after a certain index no
+15. to display a sequence of numbers of a given list given the starting and the ending no
+16. string formatting  - using operator method - to insert 1 argument and many arguments within a string
+
