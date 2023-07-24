@@ -92,4 +92,5 @@ class 5
 4. to check if a number is even or odd
 5. to check whether the student passed or failed (consider passing mark as 35)
 6. to check if a number is greater or lesser or equal to the other number
-
+7. to overwrite the text into the text file and read the text file
+8. to add text into the text file without overwriting it and read the text file
