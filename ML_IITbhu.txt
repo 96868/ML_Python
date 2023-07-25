@@ -94,3 +94,15 @@ class 5
 6. to check if a number is greater or lesser or equal to the other number
 7. to overwrite the text into the text file and read the text file
 8. to add text into the text file without overwriting it and read the text file
+
+class 6
+
+1. create a function using positional arguments
+2. create a function using keyword arguments
+3. create a function using default arguments
+4. create a function using keyword and  arguments
+5. create a function to give a variable number of input arguments to a single variable
+6. create a function to give variable number of keyword arguments
+7. so kwargs should be called after args also
+8. in a given list print the even and odd elements seperately
+9. to create a simple calculator with operator and the values on which the operation has to be performed to be taken as input
