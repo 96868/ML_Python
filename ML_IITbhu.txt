@@ -106,3 +106,22 @@ class 6
 7. so kwargs should be called after args also
 8. in a given list print the even and odd elements seperately
 9. to create a simple calculator with operator and the values on which the operation has to be performed to be taken as input
+
+class 7
+
+1. to create lists seperately for even and odd numbers in the normal way
+2. to create lists seperately for even and odd numbers using list comprehension
+3. to print the list in ascending order
+4. to print the list in descending order
+5. to create a dictionary for a list of numbers and their squares in the normal way
+6. to create a dictionary for a list of numbers and their squares using dictionary comprehension
+7. to create a set which stores values divisible by 3 in the normal way
+8. to create a set which stores values divisible by 3 using set comprehension
+9. to create a list using if else condition for divisibility by 4 using the normal way
+10. to create if else condition for divisibility by 4 using list comprehension
+11. to create if else condition for divisibility by 4 using set comprehension
+12. to create a set using if else condition for divisibility by 4 using the normal way
+13. to take the no of elements as the input and create a list with numbers from 1 to n in the normal way
+14. to take the no of elements as the input and create a set with numbers from 1 to n in the normal way
+15. to take the no of elements as the input and create a list with numbers from 1 to n using list comprehension
+16. to take the no of elements as the input and create a set with numbers from 1 to n using set comprehension
