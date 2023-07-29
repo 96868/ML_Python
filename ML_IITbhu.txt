@@ -187,3 +187,12 @@ class 9
 12. code -> in a string split the numbers into single digits and store them in the list
 13. code-> to combine the digits in list w to a single number
 14. code->in a string to split all the words and store every character as an element in the list stored in the list
+
+class 10
+
+1. create a class and objects where all the objects have the same attributes as the class
+2. create a class and objects where all the objects have the same attributes as the class except for one attribute of the class which will vary with very object
+3. what is inheritance
+4. a program on inheritance
+5. a program on encapsulation
+6. a program on polymorphism
